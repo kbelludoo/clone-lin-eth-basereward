@@ -1,0 +1,15 @@
+@RULEL:ETH_BASEREWARD_PIN:1.0.0
+~R{.u=upstream}
+.u{
+  repo="https://github.com/ethereum/consensus-specs"
+  license="CC0-1.0"
+  tag="v1.5.0"
+  commit="b5c3b619887c7850a8c1d3540b471092be73ad84"
+  phase0_path="specs/phase0/beacon-chain.md"
+  phase0_blob="5658ed2c236568f7be1cf26e8d2c496ed5179564"
+  phase0_sha256="95519084a4689b0bbbbaa9db9fb1d6e48d6c7be83a8dd21bc82a83cf96a6254a"
+  altair_path="specs/altair/beacon-chain.md"
+  altair_blob="4edfbeb763146fe33750de82e118b6bf1bde890e"
+  altair_sha256="2ea769c3a23139225997efc75efed8914f8fd949ec02991fa62d026017a278d9"
+  canonical_altair_gwei=11448672
+}
